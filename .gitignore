@@ -8,3 +8,5 @@ target/
 pom.xml
 .lein-deps-sum
 .lein-failures
+\.lsp/
+\.clj-kondo/
